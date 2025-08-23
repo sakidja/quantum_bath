@@ -29,7 +29,7 @@ Combine features and parameters into one dataset.
 You can also add additional input parameters (e.g., logarithm of custom metrics) by modifying the notebook.
 Recommended ML stack:
 PCA for feature reduction
-XGBoost for regression or classification
+XGBoost for regression or classification.
 
 ## How to Run
 Clone this repository:
