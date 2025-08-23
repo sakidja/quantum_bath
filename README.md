@@ -9,6 +9,9 @@ Machine Learning Inference" (link will be added soon). The notebook offers a sim
 - Lindblad master equations
 - Coupling topologies and memory transfer
 
+A brief overview of the work can be found in my LinkedIn post:
+https://www.linkedin.com/posts/ridwan-sakidja-83984710_baths-with-memory-a-qutip-exploration-activity-7352269774392840192-kPxr/
+
 ## Features
 - Multi-qubit structured bath modeling
 - Thermal Lindblad dissipation and entropy tracking
