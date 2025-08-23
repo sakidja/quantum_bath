@@ -20,12 +20,6 @@ It is part of an upcoming arXiv submission (link will be added soon). The notebo
 - [QuTiP](https://qutip.org)
 - NumPy, Matplotlib
 
-## How to Run
-Clone this repository:
-```bash
-git clone https://github.com/sakidja/quantum_bath.git
-cd quantum_bath
-
 ## Machine Learning Analysis 
 Normalized FFT-based features are stored in *_fft_targets.csv.
 Simulation parameters (e.g., J12, backflow, etc) are stored in *_param.txt.
@@ -36,4 +30,12 @@ You can also add additional input parameters (e.g., logarithm of custom metrics)
 Recommended ML stack:
 PCA for feature reduction
 XGBoost for regression or classification
+
+## How to Run
+Clone this repository:
+```bash
+git clone https://github.com/sakidja/quantum_bath.git
+cd quantum_bath
+
+
 
