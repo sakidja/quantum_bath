@@ -31,7 +31,18 @@ Recommended ML stack:
 PCA for feature reduction
 XGBoost for regression or classification.
 
+##Simulation Modes
+
+Single Run: Define specific parameters in the notebook and execute a single simulation.
+- A ZIP archive is automatically created for this run, containing all outputs (FFT features, parameter logs, plots).
+
+Multi-Run: Specify a range of parameters in the notebook to perform batch simulations.
+- Each completed run generates its own ZIP archive, uniquely tagged for easy identification.
+
+Both modes are fully customizable by editing the parameter cells in the notebook.
+
 ## How to Run
+
 Clone this repository:
 ```bash
 git clone https://github.com/sakidja/quantum_bath.git
