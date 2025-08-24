@@ -34,16 +34,15 @@ Understanding memory flow in quantum baths is essential for quantum control, err
 
   Multi-Run: Specify a range of parameters in the notebook to perform batch simulations.
   - Each completed run generates its own ZIP archive, uniquely tagged for easy identification.
- 
-  Both modes are fully customizable by editing the parameter cells in the notebook.
+    
+   Both modes are fully customizable by editing the parameter cells in the notebook.
 
 ## Machine Learning Analysis 
-Normalized FFT-based features are stored in *_input_vectors.csv.
-Simulation parameters and targets (e.g., J_source, backflow, etc) are stored in *_targets.txt.
+- Normalized FFT-based features are stored in *_input_vectors.csv.
+- Simulation parameters and targets (e.g., J_source, backflow, etc) are stored in *_targets.txt.
 
-To prepare data for ML:
-Combine the two file types into one dataset.
-You can also add additional input parameters (e.g., logarithm of custom metrics) by modifying the notebook.
+To prepare data for ML: Combine the two file types into one dataset.
+You can also add additional input parameters/targets (e.g., logarithm of custom metrics) by modifying the notebook.
 Recommended ML stack:
 PCA for feature reduction
 XGBoost for regression or classification.
