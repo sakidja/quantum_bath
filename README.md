@@ -38,8 +38,8 @@ Understanding memory flow in quantum baths is essential for quantum control, err
   Both modes are fully customizable by editing the parameter cells in the notebook.
 
 ## Machine Learning Analysis 
-Normalized FFT-based features are stored in *_fft_targets.csv.
-Simulation parameters (e.g., J12, backflow, etc) are stored in *_param.txt.
+Normalized FFT-based features are stored in *_input_vectors.csv.
+Simulation parameters and targets (e.g., J_source, backflow, etc) are stored in *_targets.txt.
 
 To prepare data for ML:
 Combine features and parameters into one dataset.
