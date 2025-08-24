@@ -12,6 +12,10 @@ Machine Learning Inference" (link will be added soon). The notebook offers a sim
 A brief overview of the work can be found in my LinkedIn post:
 https://www.linkedin.com/posts/ridwan-sakidja-83984710_baths-with-memory-a-qutip-exploration-activity-7352269774392840192-kPxr/
 
+## Why This Matters
+
+Understanding memory flow in quantum baths is essential for quantum control, error mitigation, and system-environment engineering. This framework offers a hands-on, diagnostic rich approach to explore these dynamics with tools designed to be accessible, extensible, and modular.
+
 ## Features
 - Multi-qubit structured bath modeling
 - Thermal Lindblad dissipation and entropy tracking
