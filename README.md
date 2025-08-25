@@ -55,5 +55,5 @@ Clone this repository:
 git clone https://github.com/sakidja/quantum_bath.git
 cd quantum_bath
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938412.svg)](https://doi.org/10.5281/zenodo.16938412)
 
