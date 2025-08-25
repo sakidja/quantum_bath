@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Quantum Bath Simulation (QuTiP)"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Sakidja
+    given-names: Ridwan
+repository-code: https://github.com/sakidja/quantum_bath
+version: 1.0.3
+date-released: 2025-08-24
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.xxxxxxx   # Replace this after Zenodo mints the DOI
+abstract: >
+  Jupyter-based framework for simulating structured quantum baths using QuTiP,
+  including entropy, fidelity, entanglement diagnostics, FFT-based spectral
+  analysis, and optional machine-learning inference workflows.
