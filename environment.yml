@@ -1,0 +1,14 @@
+name: qbath
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - qutip>=5.0
+  - numpy>=1.24
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - pandas>=1.5
+  - scikit-learn>=1.3
+  - xgboost>=1.7        # optional, for the ML workflow
+  - tqdm                # nice progress bars
+  - pip                 # keep pip available inside the env
