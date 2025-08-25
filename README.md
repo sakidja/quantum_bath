@@ -47,6 +47,7 @@ Recommended ML stack:
 PCA for feature reduction
 XGBoost for regression or classification.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938412.svg)](https://doi.org/10.5281/zenodo.16938412)
 
 ## How to Run
 
@@ -55,5 +56,5 @@ Clone this repository:
 git clone https://github.com/sakidja/quantum_bath.git
 cd quantum_bath
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938412.svg)](https://doi.org/10.5281/zenodo.16938412)
+
 
