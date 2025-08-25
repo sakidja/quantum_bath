@@ -11,8 +11,9 @@ date-released: 2025-08-24
 license: MIT
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.xxxxxxx   # Replace this after Zenodo mints the DOI
+    value: 10.5281/zenodo.16938479   # Replace this after Zenodo mints the DOI
 abstract: >
   Jupyter-based framework for simulating structured quantum baths using QuTiP,
   including entropy, fidelity, entanglement diagnostics, FFT-based spectral
   analysis, and optional machine-learning inference workflows.
+
