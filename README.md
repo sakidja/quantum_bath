@@ -47,7 +47,7 @@ Recommended ML stack:
 PCA for feature reduction
 XGBoost for regression or classification.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938445.svg)](https://doi.org/10.5281/zenodo.16938445)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938479.svg)](https://doi.org/10.5281/zenodo.16938479)
 
 ## How to Run
 
