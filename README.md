@@ -67,5 +67,6 @@ To run instantly in Google Colab for anyone with a browser and a Google account:
   
 ```bash
 !pip install qutip --quiet
-
+```
+- Run the rest of the cells.
 
