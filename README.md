@@ -1,8 +1,8 @@
 # Quantum Bath Simulation
 
 This repository contains a Jupyter notebook for simulating structured quantum baths using **QuTiP**. 
-It is part of an upcoming arXiv submission titled: "Structured Quantum Baths with Memory: A QuTiP Framework for Spectral Diagnostics and
-Machine Learning Inference" (link will be added soon). The notebook offers a simplified framework to study open quantum system dynamics, non-Markovian effects, and memory engineering, with an optional machine learning module for parameter inference based on FFT-based spectral features.
+It is part of an upcoming paper submission titled: "Structured Quantum Baths with Memory: A QuTiP Framework for Spectral Diagnostics and
+Machine Learning Inference" (details to follow). The notebook offers a simplified framework to study open quantum system dynamics, non-Markovian effects, and memory engineering, with an optional machine learning module for parameter inference based on FFT-based spectral features.
 
 - Open quantum system dynamics
 - Non-Markovian effects
