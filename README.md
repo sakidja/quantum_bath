@@ -1,5 +1,6 @@
 # Quantum Bath Simulation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938479.svg)](https://doi.org/10.5281/zenodo.16938479)
 This repository contains a Jupyter notebook for simulating structured quantum baths using **QuTiP**. 
 It is part of an upcoming paper submission titled: "Structured Quantum Baths with Memory: A QuTiP Framework for Spectral Diagnostics and
 Machine Learning Inference" (https://arxiv.org/pdf/2508.17514). The notebook offers a simplified framework to study open quantum system dynamics, non-Markovian effects, and memory engineering, with an optional machine learning module for parameter inference based on FFT-based spectral features.
@@ -47,7 +48,6 @@ Recommended ML stack:
 PCA for feature reduction
 XGBoost for regression or classification.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938479.svg)](https://doi.org/10.5281/zenodo.16938479)
 
 ## How to Run
 
