@@ -66,7 +66,8 @@ To run instantly in Google Colab for anyone with a browser and a Google account:
 ```
 - Run the rest of the cells.
 
-Clone this repository:
+
+To clone this repository:
 ```bash
 git clone https://github.com/sakidja/quantum_bath.git
 cd quantum_bath
