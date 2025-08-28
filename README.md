@@ -70,6 +70,7 @@ To run instantly in Google Colab for anyone with a browser and a Google account:
 
 
 
+
 To clone this repository:
 ```bash
 git clone https://github.com/sakidja/quantum_bath.git
