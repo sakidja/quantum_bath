@@ -12,7 +12,8 @@ Machine Learning Inference" (https://www.arxiv.org/abs/2508.17514). The notebook
 - Coupling topologies and memory transfer
 
 A brief overview of the work can be found in my LinkedIn post:
-https://www.linkedin.com/posts/ridwan-sakidja-83984710_baths-with-memory-a-qutip-exploration-activity-7352269774392840192-kPxr/
+
+https://www.linkedin.com/posts/ridwan-sakidja-83984710_github-sakidjaquantumbath-quantum-activity-7365924335208890368-8Vjx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJCl-0BliMYF5QZVXgprw8avfGVFMtE3Po
 
 ## Why This Matters
 
