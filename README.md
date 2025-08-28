@@ -55,7 +55,7 @@ XGBoost for regression or classification.
 
 🚀 Quick Start: Run in Google Colab — No Setup Needed
 
-To run instantly in Google Colab for anyone with a browser and a Google account:
+**To run instantly in Google Colab for anyone with a browser and a Google account:**
 - Click the badge below to launch the notebook in Colab:
   
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sakidja/quantum_bath/blob/main/QuTiP_Quantum_Bath.ipynb)
@@ -67,11 +67,8 @@ To run instantly in Google Colab for anyone with a browser and a Google account:
 !pip install qutip --quiet
 ```
 - Run the rest of the cells.
-
-
-
-
-To clone this repository:
+---
+**To clone this repository:**
 ```bash
 git clone https://github.com/sakidja/quantum_bath.git
 cd quantum_bath
