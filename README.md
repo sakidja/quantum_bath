@@ -38,6 +38,7 @@ In this model, we employ a two-tier representation of the environment. The far f
 ## Simulation Modes
   **Single Run**: Define specific parameters in the notebook and execute a single simulation.
   - A ZIP archive is automatically created for this run, containing all outputs (FFT features, parameter logs, plots).
+    
   **Multi-Run**: Specify a range of parameters in the notebook to perform batch simulations.
   - Each completed run generates its own ZIP archive, uniquely tagged for easy identification.
     
