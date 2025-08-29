@@ -19,6 +19,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:7365924335208890368/
 
 Understanding memory flow in quantum baths is essential for quantum control, error mitigation, and system-environment engineering. This framework offers a hands-on, diagnostic rich approach to explore these dynamics with tools designed to be accessible, extensible, and modular.
 
+## Two-Tier Strategy
+
+In this model, we employ a two-tier representation of the environment. The far field is treated conventionally as a continuum under the Lindblad master equation with Markovian dissipators, while the near field is represented explicitly as a structured cluster of 3 to 6 qubits coupled to the central qubit. Embedding these near-field degrees of freedom directly into the Hamiltonian allows information to flow coherently between system and environment, revealing memory effects and fidelity contributions while staying fully consistent with the master equation framework.
+
 ## Features
 - Multi-qubit structured bath modeling
 - Thermal Lindblad dissipation and entropy tracking
