@@ -21,7 +21,7 @@ Understanding memory flow in quantum baths is essential for quantum control, err
 
 ## Two-Tier Strategy
 
-In this model, we employ a two-tier representation of the environment. The far field is treated conventionally as a continuum under the Lindblad master equation with Markovian dissipators, while the near field is represented explicitly as a structured cluster of 3 to 6 qubits coupled to the central qubit. Embedding these near-field degrees of freedom directly into the Hamiltonian allows information to flow coherently between system and environment, revealing memory effects and fidelity contributions while staying fully consistent with the master equation framework.
+In this model, we employ a two-tier representation of the environment. The far field is treated conventionally as a continuum within the Lindblad master equation using standard Markovian dissipators, while the near field is represented explicitly as a structured cluster of 2 to 5 qubits coupled to the central qubit. By embedding these near-field degrees of freedom directly into the Hamiltonian, information can flow coherently between system and environment, enabling the study of memory effects and fidelity contributions while remaining fully consistent with the master equation formalism.
 
 ## Features
 - Multi-qubit structured bath modeling
