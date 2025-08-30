@@ -93,7 +93,7 @@ cd quantum_bath
 
 ***Slow dissipation means information gets trapped*** . If thermal dissipation is sluggish, the information does not escape cleanly. Instead, it lingers in the near field, swirling like echoes in a chamber and turning the environment into a temporary memory bank. 
 
-**This trapped memory is the seed of backflow***. What begins as a trace in the near field eventually talks back. Those echoes reshape the system’s evolution, feeding coherence back in bursts and producing dynamics that a simple Markovian picture cannot explain away.
+***This trapped memory is the seed of backflow***. What begins as a trace in the near field eventually talks back. Those echoes reshape the system’s evolution, feeding coherence back in bursts and producing dynamics that a simple Markovian picture cannot explain away.
 
 ***Engineering thermal dissipation is as critical as tuning coupling***. Preventing strong coupling is only half the story. You also need to flush the near field through carefully designed thermal channels. Otherwise the near field bath will eventually remember, and that memory always comes back to the system.
 
