@@ -29,7 +29,7 @@ In this model, we employ a two-tier representation of the environment. The far f
 </p>
 
 
-This framework provides a complementary lens on system–environment modeling. By embedding the near-field bath within the system’s Hilbert space, structured memory naturally arises from constrained and tunable interactions. The far-field environment remains described through conventional Lindblad dissipators, but the near-field is given an active dynamical role, enabling localized non-Markovian dynamics to be probed in a controlled way. Rather than discarding infinite-bath constructs, this approach refines their role: the near-field bath becomes an explicit participant, making memory effects both diagnosable and pedagogically accessible.
+This framework offers a complementary view of system–environment modeling. Embedding the near-field bath in the system’s Hilbert space lets structured memory emerge from tunable interactions, while the far-field remains treated with Lindblad dissipators. The near-field thus gains an active role, making localized non-Markovian dynamics diagnosable and pedagogically accessible without discarding infinite-bath constructs.
 
 ## Features
 - Multi-qubit structured bath modeling
