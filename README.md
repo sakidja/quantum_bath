@@ -31,6 +31,20 @@ In this model, we employ a two-tier representation of the environment. The far f
 
 This framework offers a complementary view of system–environment modeling. Embedding the near-field bath in the system’s Hilbert space lets structured memory emerge from tunable interactions, while the far-field remains treated with Lindblad dissipators. The near-field thus gains an active role, making localized non-Markovian dynamics diagnosable and pedagogically accessible without discarding infinite-bath constructs.
 
+## ⚛️ Fun Fact: Weak Coupling ≠ Memoryless 
+
+***The near field always couples first***
+Even when you tune for weak coupling, the system does not hand its energy straight to the far field. It always leaks into the structured near field first, and that near field is not just a faceless bath. It has its own character and ways of holding on to information.
+
+***Slow dissipation means information gets trapped***
+If thermal dissipation is sluggish, the information does not escape cleanly. Instead, it lingers in the near field, swirling like echoes in a chamber and turning the environment into a temporary memory bank. 
+
+**This trapped memory is the seed of non Markovianity***
+What begins as a trace in the near field eventually talks back. Those echoes reshape the system’s evolution, feeding coherence back in bursts and producing dynamics that a simple Markovian picture cannot explain away.
+
+***Engineering thermal dissipation is as critical as tuning coupling***
+Preventing strong coupling is only half the story. You also need to flush the near field through carefully designed thermal channels. Otherwise the near field bath will eventually remember, and that memory always comes back to the system.
+
 ## Features
 - Multi-qubit structured bath modeling
 - Thermal Lindblad dissipation and entropy tracking
@@ -80,9 +94,24 @@ XGBoost for regression or classification.
 ```
 - Run the rest of the cells.
 ---
+
 **To clone this repository:**
 ```bash
 git clone https://github.com/sakidja/quantum_bath.git
 cd quantum_bath
 ```
+## ⚛️ Fun Fact: Weak Coupling ≠ Memoryless 
 
+***The near field always couples first***
+Even when you tune for weak coupling, the system does not hand its energy straight to the far field. It always leaks into the structured near field first, and that near field is not just a faceless bath. It has its own character and ways of holding on to information.
+
+***Slow dissipation means information gets trapped***
+If thermal dissipation is sluggish, the information does not escape cleanly. Instead, it lingers in the near field, swirling like echoes in a chamber and turning the environment into a temporary memory bank. 
+
+**This trapped memory is the seed of non Markovianity***
+What begins as a trace in the near field eventually talks back. Those echoes reshape the system’s evolution, feeding coherence back in bursts and producing dynamics that a simple Markovian picture cannot explain away.
+
+***Engineering thermal dissipation is as critical as tuning coupling***
+Preventing strong coupling is only half the story. You also need to flush the near field through carefully designed thermal channels. Otherwise the near field bath will eventually remember, and that memory always comes back to the system.
+
+✨ Thank you for visiting, and enjoy exploring!
