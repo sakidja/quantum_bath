@@ -91,7 +91,7 @@ cd quantum_bath
 
 ***The near field always couples first***. Even when you tune for weak coupling, the system does not hand its energy straight to the far field. It always leaks into the structured near field first, and that near field is not just a faceless bath. It has its own character and ways of holding on to information.
 
-***Slow dissipation means information gets trapped*** . If thermal dissipation is sluggish, the information does not escape cleanly. Instead, it lingers in the near field, swirling like echoes in a chamber and turning the environment into a temporary memory bank. 
+***Slow dissipation means information gets trapped***. If thermal dissipation is sluggish, the information does not escape cleanly. Instead, it lingers in the near field, swirling like echoes in a chamber and turning the environment into a temporary memory bank. 
 
 ***This trapped memory is the seed of backflow***. What begins as a trace in the near field eventually talks back. Those echoes reshape the system’s evolution, feeding coherence back in bursts and producing dynamics that a simple Markovian picture cannot explain away.
 
