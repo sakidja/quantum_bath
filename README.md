@@ -37,6 +37,7 @@ Six is the sweet spot for modeling structured baths:
 - Not too big – larger baths dilute the signal and make inference harder.
 - Diagnostic clarity – a single ⟨σ_z(t)⟩ trace gives distinct FFT peaks that PCA + simple ML can map to couplings, dissipation, and memory.
 - Practical – simple to simulate, visualize, and teach; still runs on a laptop.
+  
 👉 Six qubits are the minimum structure where the near-field bath is no longer faceless but carries a quantum identity.
 
 ## Features
