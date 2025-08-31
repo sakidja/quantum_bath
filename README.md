@@ -14,6 +14,7 @@
 - [How to Run](#how-to-run)
 - [Fun Fact: Weak Coupling ≠ Memoryless](#fun-fact-weak-coupling--memoryless)
 
+
 ## Introduction
 
 This repository contains a Jupyter notebook for simulating structured quantum baths using **QuTiP**. 
