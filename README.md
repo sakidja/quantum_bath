@@ -2,19 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938479.svg)](https://doi.org/10.5281/zenodo.16938479)
 
-## 📚 Table of Contents
-- [Introduction](#introduction)
-- [Why This Matters](#why-this-matters)
-- [Two-Tier Strategy](#two-tier-strategy)
-- [Why Six Qubits?](#why-six-qubits)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Simulation Modes](#simulation-modes)
-- [Machine Learning Analysis](#machine-learning-analysis)
-- [How to Run](#how-to-run)
-- [Fun Fact: Weak Coupling ≠ Memoryless](#fun-fact-weak-coupling--memoryless)
-
-
 ## Introduction
 
 This repository contains a Jupyter notebook for simulating structured quantum baths using **QuTiP**. 
