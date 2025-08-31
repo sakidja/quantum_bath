@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938479.svg)](https://doi.org/10.5281/zenodo.16938479)
 
-- [Fun Fact: Weak Coupling ≠ Memoryless](#fun-fact-weak-coupling--memoryless)
+- [Fun Fact: Weak Coupling ≠ Memoryless](#fun-fact)
 
 ## Introduction
 
