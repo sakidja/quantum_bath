@@ -12,7 +12,7 @@
 - [Simulation Modes](#simulation-modes)
 - [Machine Learning Analysis](#machine-learning-analysis)
 - [How to Run](#how-to-run)
-- [Fun Fact: Weak Coupling = Memoryless](#fun-fact-weak-coupling--memoryless)
+- [Fun Fact: Weak Coupling ≠ Memoryless](#fun-fact-weak-coupling--memoryless)
 
 ## Introduction
 
