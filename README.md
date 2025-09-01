@@ -28,8 +28,6 @@ In this model, we employ a two-tier representation of the environment. The **far
 <p align="center">
  <img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/56b7f2ba-59e3-4902-bdff-33b7f8fc92a4" />
  <img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/81c890eb-cd3d-4033-bbce-06ca327b6343" />
- 
- Abstract 3-qubit triangular motif of the source–bath near-field structure (extendable to 6 qubits).
 </p>
 
 
