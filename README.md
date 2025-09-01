@@ -105,6 +105,6 @@ cd quantum_bath
 
 ***This trapped memory is the seed of backflow***. What begins as a trace in the near field eventually talks back. Those echoes reshape the system’s evolution, feeding coherence back in bursts and producing dynamics that a simple Markovian picture cannot explain away.
 
-***Engineering thermal dissipation is as critical as tuning coupling***. Preventing strong coupling is only half the story. You also need to flush the near field through carefully designed thermal channels. Otherwise the near field bath will eventually remember, and that memory always comes back to the system.
+***Engineering thermal dissipation is as critical as tuning coupling***. Preventing strong coupling is only half the story. You also need to flush or work with the near field through carefully designed thermal channels. Otherwise the near field bath will eventually remember, and that memory always comes back to the system.
 
 ***✨ Thank you for visiting, and enjoy exploring!***
