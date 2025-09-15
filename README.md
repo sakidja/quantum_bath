@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16938479.svg)](https://doi.org/10.5281/zenodo.16938479)
 
+**Now updated to v2: includes correlation function analysis and improved diagnostics.**
+
 ## Introduction
 
 This repository contains a Jupyter notebook for simulating structured quantum baths using **QuTiP**. 
